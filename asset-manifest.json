@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/EcommerceApp/static/css/main.fd8d703e.css",
-    "main.js": "/EcommerceApp/static/js/main.4740384b.js",
+    "main.js": "/EcommerceApp/static/js/main.37d1552e.js",
     "static/media/vinay.png": "/EcommerceApp/static/media/vinay.c63186ad5cf8052af1c0.png",
     "static/media/logo.png": "/EcommerceApp/static/media/logo.7b714a69c49d760a43ed.png",
     "index.html": "/EcommerceApp/index.html",
     "main.fd8d703e.css.map": "/EcommerceApp/static/css/main.fd8d703e.css.map",
-    "main.4740384b.js.map": "/EcommerceApp/static/js/main.4740384b.js.map"
+    "main.37d1552e.js.map": "/EcommerceApp/static/js/main.37d1552e.js.map"
   },
   "entrypoints": [
     "static/css/main.fd8d703e.css",
-    "static/js/main.4740384b.js"
+    "static/js/main.37d1552e.js"
   ]
 }
