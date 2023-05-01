@@ -1,6 +1,6 @@
-import {Link} from 'react-router-dom'
+import { Link } from "react-router-dom";
 
-import './index.css'
+import "./index.css";
 
 const EmptyCartView = () => (
   <div className="cart-empty-view-container">
@@ -11,12 +11,12 @@ const EmptyCartView = () => (
     />
     <h1 className="cart-empty-heading">Your Cart Is Empty</h1>
 
-    <Link to="/products">
+    <Link to="/EcommerceApp/products">
       <button type="button" className="shop-now-btn">
         Shop Now
       </button>
     </Link>
   </div>
-)
+);
 
-export default EmptyCartView
+export default EmptyCartView;
