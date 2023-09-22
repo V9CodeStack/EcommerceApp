@@ -18,6 +18,9 @@ class App extends Component {
   };
 
   //   TODO: Add your code for remove all cart items, increment cart item quantity, decrement cart item quantity, remove cart item
+
+  // Prasanth
+
   //   TODO: Add your code for remove all cart items, increment cart item quantity, decrement cart item quantity, remove cart item
   removeAllCartItems = () => {
     this.setState({ cartList: [] });
