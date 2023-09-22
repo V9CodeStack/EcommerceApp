@@ -18,10 +18,14 @@ class App extends Component {
   };
 
   //   TODO: Add your code for remove all cart items, increment cart item quantity, decrement cart item quantity, remove cart item
+  //   TODO: Add your code for remove all cart items, increment cart item quantity, decrement cart item quantity, remove cart item
   removeAllCartItems = () => {
     this.setState({ cartList: [] });
   };
 
+  // removeAllCartItems = () => {
+  //   this.setState({ cartList: [] });
+  // };
   removeCartItem = (id) => {
     const { cartList } = this.state;
     const updatedCartList = cartList.filter(
